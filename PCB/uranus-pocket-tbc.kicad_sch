@@ -419,7 +419,7 @@
 	)
 	(text "Inductance too high"
 		(exclude_from_sim no)
-		(at 142.24 112.522 0)
+		(at 142.24 113.792 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -427,7 +427,7 @@
 		)
 		(uuid "d9712853-3b13-4b34-9933-92df9b9c5558")
 	)
-	(text "OR"
+	(text "-OR-"
 		(exclude_from_sim no)
 		(at 144.526 108.458 0)
 		(effects
@@ -487,7 +487,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 121.92) (xy 129.54 127)
+			(xy 129.54 123.19) (xy 129.54 128.27)
 		)
 		(stroke
 			(width 0)
@@ -507,7 +507,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 129.54) (xy 135.89 120.65)
+			(xy 135.89 130.81) (xy 135.89 121.92)
 		)
 		(stroke
 			(width 0)
@@ -517,7 +517,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 120.65) (xy 128.27 128.27)
+			(xy 128.27 121.92) (xy 128.27 129.54)
 		)
 		(stroke
 			(width 0)
@@ -567,7 +567,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 118.11) (xy 125.73 118.11)
+			(xy 138.43 119.38) (xy 125.73 119.38)
 		)
 		(stroke
 			(width 0)
@@ -577,7 +577,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 120.65) (xy 128.27 120.65)
+			(xy 135.89 121.92) (xy 128.27 121.92)
 		)
 		(stroke
 			(width 0)
@@ -607,7 +607,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 130.81) (xy 137.16 130.81)
+			(xy 125.73 132.08) (xy 137.16 132.08)
 		)
 		(stroke
 			(width 0)
@@ -617,7 +617,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 121.92) (xy 154.94 121.92)
+			(xy 148.59 123.19) (xy 154.94 123.19)
 		)
 		(stroke
 			(width 0)
@@ -627,7 +627,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 119.38) (xy 127 119.38)
+			(xy 137.16 120.65) (xy 127 120.65)
 		)
 		(stroke
 			(width 0)
@@ -637,7 +637,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 129.54) (xy 135.89 129.54)
+			(xy 127 130.81) (xy 135.89 130.81)
 		)
 		(stroke
 			(width 0)
@@ -667,7 +667,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 127) (xy 154.94 127)
+			(xy 129.54 128.27) (xy 154.94 128.27)
 		)
 		(stroke
 			(width 0)
@@ -677,7 +677,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 119.38) (xy 127 129.54)
+			(xy 127 120.65) (xy 127 130.81)
 		)
 		(stroke
 			(width 0)
@@ -697,7 +697,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 130.81) (xy 137.16 119.38)
+			(xy 137.16 132.08) (xy 137.16 120.65)
 		)
 		(stroke
 			(width 0)
@@ -717,7 +717,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 128.27) (xy 134.62 128.27)
+			(xy 128.27 129.54) (xy 134.62 129.54)
 		)
 		(stroke
 			(width 0)
@@ -737,7 +737,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 121.92) (xy 129.54 121.92)
+			(xy 134.62 123.19) (xy 129.54 123.19)
 		)
 		(stroke
 			(width 0)
@@ -767,7 +767,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 118.11) (xy 125.73 130.81)
+			(xy 125.73 119.38) (xy 125.73 132.08)
 		)
 		(stroke
 			(width 0)
@@ -797,7 +797,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 121.92) (xy 143.51 121.92)
+			(xy 138.43 123.19) (xy 143.51 123.19)
 		)
 		(stroke
 			(width 0)
@@ -817,7 +817,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 121.92) (xy 138.43 118.11)
+			(xy 138.43 123.19) (xy 138.43 119.38)
 		)
 		(stroke
 			(width 0)
@@ -827,7 +827,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 128.27) (xy 134.62 121.92)
+			(xy 134.62 129.54) (xy 134.62 123.19)
 		)
 		(stroke
 			(width 0)
@@ -947,7 +947,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 146.05 121.92 90)
+		(at 146.05 123.19 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -958,7 +958,7 @@
 		(fields_autoplaced yes)
 		(uuid "955d72dd-0912-448a-add7-d84068d60a26")
 		(property "Reference" "C2"
-			(at 146.05 115.57 90)
+			(at 146.05 116.84 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -968,7 +968,7 @@
 			)
 		)
 		(property "Value" "tbd"
-			(at 146.05 118.11 90)
+			(at 146.05 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -978,7 +978,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 121.92 0)
+			(at 146.05 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -989,7 +989,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 121.92 0)
+			(at 146.05 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1000,7 +1000,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 156.21 121.92 0)
+			(at 156.21 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
