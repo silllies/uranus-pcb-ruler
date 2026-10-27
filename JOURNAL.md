@@ -40,7 +40,7 @@ $$L_{total}=L_{1}+L_{2}+2M$$
 
 Where:
 
-$M=$The mutual inductance
+$M=$ The mutual inductance
 
 For thinner boards, like 0.8mm, a rule of thumb is to multiply the single board apparent inductance by 4. I don't like rules of thumbs, so there is another estimation formula, which is
 
