@@ -8,6 +8,8 @@ total_time: "8h 0m"
 
 October 27, 2026: PCB RULERRR!!!!
 
+I hope Fabricate can render LaTeX :<<<<<<<<<<
+
 I have was in the middle of an intensive project, but saw the end of October looming, and I wanted the cool dev board. I started looking into small projects I could make that I would still love. I tried to make a bash bunny (small linux computer in the size of a large USB drive), but realized that I would not be able to finish it in time and that it would require an HDI board for the processor I had selected (0.5mm pitch). I then looked into making a business card with an e-ink display that would be powered from harvested energy, but then got angry at ribbon cables and bend radii. I still liked the idea of a business card, but I don't really have a business and I'm not trying to sell myself, so I went in a different direction.
 
 ![PCB business card with many common chip sizes](images/businesscard.JPG)
