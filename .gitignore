@@ -1,6 +1,3 @@
-# For PCBs designed using KiCad: https://www.kicad.org/
-# Format documentation: https://kicad.org/help/file-formats/
-
 # Temporary files
 *.000
 *.bak
@@ -31,7 +28,6 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
@@ -41,3 +37,13 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# Log files
+*.log
+
+# Backups
+_restore_backup*
+
+# Mine >:3
+secrets.json
+
