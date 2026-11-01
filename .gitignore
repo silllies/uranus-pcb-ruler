@@ -54,3 +54,5 @@ secrets.json
 # simulation files
 
 *-sim.*
+
+*-lib-table
