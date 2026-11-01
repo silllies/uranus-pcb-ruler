@@ -44,6 +44,15 @@ fp-info-cache
 # Backups
 _restore_backup*
 
+.obsidian
+
+rfsim_results
+
 # Mine >:3
 secrets.json
 
+# simulation files
+
+*-sim.*
+
+*-lib-table
