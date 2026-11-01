@@ -1,2 +1,7 @@
-,,,,,,,,,,,
-,Manufacturer,,MPN,,Price ($),,Quantity,,Description,,Link
+Reference,MPN,Manufacturer,Price,Count,Description,Link
+C1,C0402C152F5GECAUTO,KEMET,0.60,1,1.5nF C0G ±1% 50V 0402 Ceramic Capacitors RoHS,https://www.lcsc.com/product-detail/C3875817.html
+U1,ST25DV04KC-IE8S3,ST,0.90,1,NFC RFID Tag 4 Kbit,https://www.lcsc.com/product-detail/C5221752.html
+,,,23.61,,LCSC Fees,
+,,,8.20,"5 (included)",JLCPCB Board,
+,,,14.4,,JLCPCB Fees,
+,,Total,47.71,,,
