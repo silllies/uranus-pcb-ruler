@@ -62,7 +62,7 @@ For an NFC antenna, the frequency should be 13.56 MHz. The wavelength of that fr
 **Why is the antenna on 2 layers?**  
 This is another space saving optimization I made. When you have a typical one layer antenna, it keeps spiraling into its center. As it gets closer, it gets less and less effective at increasing the inductance. I would need to use a larger square, which would eat up more space. I realized splitting the antenna onto two layers would help by pushing several turns onto a fresh, already unused space, and also help increase the inductance per turn more by also increasing mutual coupling. Care must be taken, though, as the current must flow in the same direction as the top layer. Having current flow in opposite directions will make have the mutual coupling that was aiding your antenna fight against it. An unforeseen benefit of having a two layered antenna is that the ends of the antenna will end up being right next to one another, which means one trace does not have to cross all over your specially organized copper.
 
-![two layered loopy](doubleloopy_final.png)
+![two layered loopy](images/doubleloopy_final.png)
 
 **If you kept copper away from the antenna by 4mm, why is the NFC tag in the dead center?**  
 NFC doesn't work like standard wireless communication, like bluetooth or wifi. Those systems emit light at radio frequencies, and the power of those signals drop according to the inverse square law ($\frac{1}{r^{2}}$). NFC works instead by generating a local magnetic field, and the power of that signal drops to the inverse of the distance to the sixth power ($\frac{1}{r^{6}}$). Because of this, travelling just a bit away greatly diminishes the power, and the NFC tag is powered entirely by energy harvesting.
@@ -72,7 +72,7 @@ Uhhhhh, depends on your definition of "pass". DRC is very angry at me, but every
 
 PCB Designs:
 
-![Front design](rulerPCB_front_final.png)
+![Front design](images/rulerPCB_front_final.png)
 
 ![Back design](images/rulerPCB_back_final.png)
 
@@ -91,7 +91,7 @@ BOM:
 | | | | 23.61 | | LCSC Fees |
 | | | | 8.20 | 5 (included) | JLCPCB Board |
 | | | | 14.4 | | JLCPCB Fees |
-| | Total | | 47.71 | | | |
+| | | Total | 47.71 | | | |
 
 I cannot properly estimate the final price, as I will be linking my LCSC order to my JLCPCB order, which can only happen after the JLCPCB order is placed. It may be around $12-16 in savings
 
