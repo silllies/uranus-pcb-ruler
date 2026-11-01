@@ -6,7 +6,7 @@ created_at: 2026-10-27
 total_time: 26h 30m
 ---
 
-October 27, 2026: PCB RULERRR!!!!
+# October 27, 2026: PCB RULERRR!!!!
 
 I hope Fabricate can render LaTeX :<<<<<<<<<<
 
