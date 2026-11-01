@@ -742,7 +742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "955d72dd-0912-448a-add7-d84068d60a26")
-		(property "Reference" "C2"
+		(property "Reference" "C1"
 			(at 146.05 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -826,7 +826,7 @@
 		(instances
 			(project "uranus-pcb-ruler"
 				(path "/c09fa0ee-1a41-4f04-be60-1004a208588d"
-					(reference "C2")
+					(reference "C1")
 					(unit 1)
 				)
 			)
