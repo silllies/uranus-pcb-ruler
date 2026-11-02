@@ -102,3 +102,7 @@ I cannot properly estimate the final price, as I will be linking my LCSC order t
 ![JLCPCB Cart](images/jlcpcb_cart.png)
 
 ![JLCPCB Total](images/jlcpcb_total.png)
+
+AI Disclosure:
+
+I used AI to help with estimating the inductance and capacitance of the antenna
